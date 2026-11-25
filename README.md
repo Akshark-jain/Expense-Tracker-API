@@ -33,7 +33,7 @@ Specific inspiration for this project comes from the following link: [Expense Tr
 1. Clone this repository on your local machine:
 
    ```bash
-   git clone https://github.com/Atomudev/Expense-Tracker-API.git
+   git clone https://github.com/Akshark-jain/Expense-Tracker-API.git
    ```
 
 2. Go to the project directory:
